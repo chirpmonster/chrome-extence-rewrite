@@ -2,6 +2,11 @@
 
 背景：charles的rewrite并不好用，并且操作较重，也占用较大内存
 
+效果预览：
+<img width="500" alt="截屏2021-12-21 14 22 26" src="https://user-images.githubusercontent.com/61496299/146881864-d410cd81-62d1-4d1d-9c47-b8a4e3a70f72.png">
+
+功能介绍：重写请求参数，支持添加删除修改参数（如mock），支持全部重写参数（通过jsoneditor实现）
+
 本地调试：
 
 1. npm run watch
